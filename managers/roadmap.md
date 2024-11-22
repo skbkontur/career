@@ -101,10 +101,6 @@
 - [Яндекс практикум](https://yandex.ru/jobs/pages/techman-interview)
 - [Стратоплан](https://stratoplan-school.com)
 
-## Почитать
-- Элиезер Юдковский «Гарри Поттер и методы рационального мышления».
-- Марк Мэнсон «Тонкое искусство пофигизма».
-
 ## Подкасты
 - [Podlodka podcast](https://music.yandex.ru/album/7570122?dir=desc&activeTab=about)
 - [Бреслав и Ложечкин](https://music.yandex.ru/album/25789910?dir=desc&activeTab=about)
@@ -127,6 +123,15 @@
 - [Карта компетенций менеджера разработки](https://miro.com/app/board/o9J_kwJaDMk=/) от Контура.
 - [Профили технических менеджеров](https://github.com/avito-tech/playbook/blob/master/techlead-profile.md) от Avito Tech.
 - [Teamlead Roadmap](https://tlroadmap.io) от Егора Толстого.
+
+## Что ещё
+- Элиезер Юдковский «Гарри Поттер и методы рационального мышления».
+- Марк Мэнсон «Тонкое искусство пофигизма».
+- О системах материальной и нематериальной мотивации у сотрудников.
+- О discovery и delivery процессах.
+- О принципах JTBD и CusDev.
+- Обзорно о фреймворках:  SAFe (Scaled Agile Framework), LeSS (Large-Scale Scrum), Nexus Framework, DA (Disciplined Agile), FDD (Feature-Driven Development)
+- Записи кейс-клубов и управленческих поединков.
 
 ---
 
