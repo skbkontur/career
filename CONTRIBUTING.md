@@ -9,22 +9,22 @@
 
 - Зарегистрируйтесь на [GitHub](https://github.com/).
 
-- Откройте в браузере документ, в который собираетесь внести изменения. Например [этот](https://github.com/skbkontur/career/blob/main/README.md).
+- Откройте в браузере документ, в который собираетесь внести изменения.
 
-- Нажмите кнопку редактирования «Edit this file».
+- Нажмите кнопку редактирования `Edit this file`.
 
 - В открывшемся редакторе внесите изменения в файл. Вы всегда можете переключиться между режимом редактирования и предпросмотра кнопками `Edit` и `Preview`.
 
-- Сохранит изменеия, нажав Commit changes.
+- Сохранит изменеия, нажав `Commit changes`.
 
-- В открывшемся лайтбоксе,
-    * Наишите сообщение к коммиту в поле Commit message. Напишите 
-    * Cоздайте новую ветку, выбрав радиобаттон «Create a new branch for this commit and start a pull request».
+- В открывшемся лайтбоксе:
+    * Наишите сообщение к коммиту в поле `Commit message`; 
+    * Cоздайте новую ветку, выбрав радиобаттон `Create a new branch for this commit and start a pull request`;
     * Дайте название ветке.
 
-- Сохраните измеенни через кнопку Propose changes.
+- Сохраните изменения через кнопку `Propose changes`.
 
-- На открывшейся странице нажмите «Create pull request».
+- На открывшейся странице нажмите `Create pull request`.
 
 ### Ветки
 
@@ -40,6 +40,6 @@
 
 ### Markdown
 
-Наши документы используют язык разметки [Markdown](https://ru.wikipedia.org/wiki/Markdown). Если вы с ним не работли, то быстро научитесь. Ознакомьтесь с синтаксисом [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+Наши документы используют язык разметки [Markdown](https://ru.wikipedia.org/wiki/Markdown). Если вы не работали в markdown, то быстро научитесь. [Ознакомьтесь с синтаксисом](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
-Все документы проверяются через [markdown-link-check](https://github.com/tcort/markdown-link-check). Проверка корректности синтаксиса md происходит при создании Pull Request'а в ветку `main`. Информация о проверке выводится на странице Pull Request'a.
+Ссылки в документах проверяются через [action-linkspector](https://github.com/UmbrellaDocs/action-linkspector). Проверка работоспособности ссылок происходит при создании `Push` в рабочую ветку или `main` или при `Pull Request` в ветку `main`. Информация о проверке выводится на странице `Pull Request`.
