@@ -156,14 +156,14 @@
 - [https://githowto.com/ru/](https://githowto.com/ru/)
 
 #### Курсы по языкам программирования
-- [ Python на Ulearn](https://ulearn.me/course/python/Yazyk_Python_cfe94d1b-80ef-4256-8f7c-303c2c49c24b)
+- [Python на Ulearn](https://ulearn.me/course/python/Yazyk_Python_cfe94d1b-80ef-4256-8f7c-303c2c49c24b)
 - [Основы JS (HTML, CSS)](https://htmlacademy.ru)
 
 ## Тестирование
 - Рекс Блек «Ключевые процессы тестирования».
 
 #### Курс
-- [Курс по тестирования на Ulearn](https://learn.me/Course/testing-2022/Znakomstvo_41b8e6be-7800-4c4a-9f5a-6f91dd8546cd)
+- [Курс по тестирования на Ulearn](https://ulearn.me/Course/testing-2022/Znakomstvo_41b8e6be-7800-4c4a-9f5a-6f91dd8546cd)
 
 ## Проекты
 - «Руководство PMBOK. Руководство к своду знаний по управлению проектами».
