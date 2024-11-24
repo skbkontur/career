@@ -40,6 +40,6 @@
 
 ### Markdown
 
-Наши документы используют язык разметки [Markdown](https://ru.wikipedia.org/wiki/Markdown). Если вы с ним не работли, то быстро научитесь. Ознакомьтесь с синтаксисом [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+Наши документы используют язык разметки [Markdown](https://ru.wikipedia.org/wiki/Markdown). Если вы не работали в markdown, то быстро научитесь. [Ознакомьтесь с синтаксисом](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
-Все документы проверяются через [markdown-link-check](https://github.com/tcort/markdown-link-check). Проверка работоспособности ссылок происходит при создании Pull Request'а в ветку `main`. Информация о проверке выводится на странице Pull Request'a.
+Ссылки в документах проверяются через [action-linkspector](https://github.com/UmbrellaDocs/action-linkspector). Проверка работоспособности ссылок происходит при создании `Push` в рабочую ветку или `main` или при `Pull Request` в ветку `main`. Информация о проверке выводится на странице `Pull Request`.

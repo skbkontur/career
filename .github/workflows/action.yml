@@ -1,29 +1,23 @@
-name: linter
+name: Linkspector
 
-# Controls when the action will run. 
 on:
-  # Triggers the workflow on push or pull request events but only for the main branch
   push:
-    branches: [ main ]
+    branches:
+      - 'main'
+      - '*'
   pull_request:
-    branches: [ main ]
+    branches: 
+      - 'main'
 
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
-
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
-  lint:
-    # The type of runner that the job will run on
+  check-links:
+    name: runner / linkspector
     runs-on: ubuntu-latest
-
-    # check out the latest version of the code
     steps:
-    - uses: actions/checkout@v3
-
-    # Checks the status of hyperlinks in .md files in verbose mode
-    - name: Check links
-      uses: gaurav-nelson/github-action-markdown-link-check@v1
-      with:
-        use-verbose-mode: 'yes'
+      - uses: actions/checkout@v4
+    
+      - name: Run linkspector
+        uses: umbrelladocs/action-linkspector@v1
+        with:
+          filter_mode: nofilter
+          fail_on_error: true
