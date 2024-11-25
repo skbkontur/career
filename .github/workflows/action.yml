@@ -1,9 +1,8 @@
-name: Linkspector
+name: Linter
 
 on:
   push:
     branches:
-      - 'main'
       - '*'
   pull_request:
     branches: 
@@ -11,7 +10,7 @@ on:
 
 jobs:
   check-links:
-    name: runner / linkspector
+    name: Linkspector
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -23,9 +22,10 @@ jobs:
           fail_on_error: true
 
   spellcheck:
-    name: Typo CI (GitHub Action)
+    name: Spell checker
     runs-on: ubuntu-latest
-    timeout-minutes: 4
     steps:
-    - name: TypoCheck
+    - uses: actions/checkout@v4
+
+    - name: Run Typo CI 
       uses: typoci/spellcheck-action@master
