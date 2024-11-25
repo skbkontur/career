@@ -1,7 +1,6 @@
 # https://github.com/TypoCI/spellcheck-action/tree/master?tab=readme-ov-file
 dictionaries:
   - en
-  - ru
 
 # Any files/folders we should ignore?
 excluded_files:

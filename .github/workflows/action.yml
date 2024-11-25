@@ -5,12 +5,12 @@ on:
     branches:
       - '*'
   pull_request:
-    branches: 
+    branches:
       - 'main'
 
 jobs:
   check-links:
-    name: Linkspector
+    name: Link checker
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -25,7 +25,7 @@ jobs:
     name: Spell checker
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-    - name: Run Typo CI 
-      uses: typoci/spellcheck-action@master
+      - name: Run Typo CI 
+        uses: typoci/spellcheck-action@v1
