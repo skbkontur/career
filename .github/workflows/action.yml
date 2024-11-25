@@ -28,4 +28,4 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Run Typo CI 
-        uses: typoci/spellcheck-action@v0
+        uses: typoci/spellcheck-action@master
