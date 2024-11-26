@@ -57,7 +57,7 @@
     У приложения в целом, и у каждого экрана в отдельности есть свой жизненный цикл. С его помощью разработчики могут управлять поведением приложения, когда пользователь его открывает, закрывает, или переворачивает телефон
 - [**Xml разметка**](https://www.youtube.com/watch?v=pjsADVZh45I)
     Файл, описывающий внешний вид экрана
-- [**Context**](https://devcolibri.com/context-в-android-приложении/)
+- [**Context**](https://developer.alexanderklimov.ru/android/theory/context.php)
     C помощью этого класса можно взаимодействовать с системой Android
 - [**SharedPreferences**](http://developer.alexanderklimov.ru/android/theory/sharedpreferences.php)
     Cамый простой способ постоянно хранить данные в памяти. Данные хранятся по принципу «ключ - значение»
@@ -273,17 +273,17 @@ Junior-разработчик – полноценный член команды
 </details>
 
 <details>
-  <summary>Каналы на YouTube</summary>
+  <summary>Книги</summary>
   
-1. Bruce Eckel, Svetlana Isakova. [**Atomic Kotlin**](https://www.ozon.ru/product/atomic-kotlin-247568154/?sh=SLEWOS_f)
+1. Bruce Eckel, Svetlana Isakova. [**Atomic Kotlin**](https://www.atomickotlin.com/atomickotlin/)
 2. Chet Haase. [**Androids: The Team That Built the Android Operating System**](https://www.amazon.com/Androids-Built-Android-Operating-System/dp/1737354810/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
-3. Дмитрий Жемеров. [**Kotlin в действии**](https://www.ozon.ru/context/detail/id/142702695/)
-4. Thomas Nield. [**Learning RxJava**](https://www.packtpub.com/application-development/learning-rxjava)
-5. Джошуа Блох. [**Java. Эффективное программирование**](https://www.ozon.ru/context/detail/id/1259354/)
+3. Дмитрий Жемеров. [**Kotlin в действии**](https://www.labirint.ru/books/612984/)
+4. Thomas Nield. [**Learning RxJava**](https://www.oreilly.com/library/view/learning-rxjava/9781787120426/)
+5. Джошуа Блох. [**Java. Эффективное программирование**](https://www.litres.ru/book/dzhoshua-bloh/javatm-effektivnoe-programmirovanie-48411247/)
 6. John Ousterhout. [**A Philosophy of Software Design**](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
-7. Marcin Moskala. [**Effective Kotlin**](https://effectivekotlin.eu/)
-8. Роберт Мартин. [**Чистый код. Создание, анализ и рефакторинг**](https://www.ozon.ru/context/detail/id/142429922/)
-9. Чад Фаулер. [**Программист-фанатик**](https://www.ozon.ru/product/programmist-fanatik-31901152/?sh=zyJiZYgp)
+7. Marcin Moskala. [**Effective Kotlin**](https://leanpub.com/effectivekotlin)
+8. Роберт Мартин. [**Чистый код. Создание, анализ и рефакторинг**](https://www.labirint.ru/books/642466/)
+9. Чад Фаулер. [**Программист-фанатик**](https://www.labirint.ru/books/647973/)
   
 </details>
 
@@ -291,7 +291,7 @@ Junior-разработчик – полноценный член команды
   <summary>Курсы</summary>
   
 1. [**Курс от Doubletapp**](https://www.youtube.com/playlist?list=PLQ09TvuOLytS_vYHtFHQzZJFcnbYCYF6x)
-2. [**Уроки по разработке от Mail.ru**](https://youtu.be/GmZEFB0is6Y) (видео) + **[Курс по Android в Технополисе 2019](https://polis-mail-ru.github.io/2019-android)** (текст)
+2. [**Уроки по разработке от Mail.ru**](https://youtu.be/GmZEFB0is6Y) (видео) + **[Курс по Android в Технополисе 2019](https://github.com/polis-vk/2019-android)** (текст)
 3. [**Школа мобильной разработки от Yandex**](https://www.youtube.com/playlist?list=PLQC2_0cDcSKBNCR8UWeElzCUuFkXASduz)
 4. [**Уроки по Android/Kotlin от SkillBranch**](https://www.youtube.com/channel/UCWLKyJUZ32GJvSIisQjU3kw/playlists)
 5. [**Бесплатный текстовый курс по Андроид разработке**](https://github.com/ArturVasilov/AndroidSchool)
@@ -389,7 +389,7 @@ Compose Multiplatform
 
 1. Работа с HTTP/S — **[OkHttp](https://square.github.io/okhttp/)**, [**Retrofit**](https://github.com/square/retrofit)
 2. Работа с WebSockets — [**Scarlet**](https://github.com/Tinder/Scarlet), [**nv-websocket-client**](https://github.com/TakahikoKawasaki/nv-websocket-client)
-3. Работа с БД — [**Room**](https://developer.android.com/topic/libraries/architecture/room), [**Realm**](https://realm.io/blog/realm-for-android/), [**SQLDelight**](https://github.com/cashapp/sqldelight)
+3. Работа с БД — [**Room**](https://developer.android.com/topic/libraries/architecture/room), [**Realm**](https://github.com/realm/realm-java), [**SQLDelight**](https://github.com/cashapp/sqldelight)
 4. Логирование — [**Timber**](https://github.com/JakeWharton/timber)
 5. Работа с датами — [**ThreeTenABP**](https://github.com/JakeWharton/ThreeTenABP)
 6. Навигация — [**Cicerone**](https://github.com/terrakok/Cicerone), [**Navigation Component**](https://developer.android.com/guide/navigation/navigation-getting-started)
