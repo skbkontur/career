@@ -74,10 +74,9 @@
     - [**Develop in Swift Fundamentals**](https://books.apple.com/ru/book/develop-in-swift-fundamentals/id1556365994)
     - [**Develop in Swift Explorations**](https://books.apple.com/ru/book/develop-in-swift-explorations/id1556366287)
     - [**Develop in Swift Data Collections**](https://books.apple.com/ru/book/develop-in-swift-data-collections/id1556365920)
-- [**SwiftBook**](https://swiftbook.ru) – самая крупная русскоязычная платформа для обучения основам Swift.
+- [**SwiftBook**](https://swiftbook.org) – самая крупная русскоязычная платформа для обучения основам Swift.
 - [**iOS App Dev Tutorial**](https://developer.apple.com/tutorials/app-dev-training/) – основы Xcode, SwiftUI и UIKit для создания нативных приложений. Интерактивное обучение от Apple.
-- [**App Development Bootcamp**](https://www.udemy.com/course/ios-13-app-development-bootcamp/) – курс для обучения с 0 до начинающего iOS разработчика.
-- [**iOS and Swift от Raywenderlich**](https://www.raywenderlich.com/ios/paths)(https://www.udemy.com/course/ios-12-and-swift-4-for-beginners-200-hands-on-tutorials) – курсы от [*Raywenderlich*](https://www.raywenderlich.com/ios) для обучения с 0 до начинающего iOS разработчика.
+- [Курсы от *Raywenderlich*](https://www.raywenderlich.com/ios) для обучения с 0 до начинающего iOS разработчика.
 
 ## Level 2: `Junior`
 
@@ -132,7 +131,6 @@
 	- [Тестирование приложений: описание и чек-лист](https://ru.hexlet.io/blog/posts/testirovanie-prilozheniy-opisanie-i-chek-list)
 	- [Начинаем писать тесты (правильно)](https://ru.hexlet.io/blog/posts/how-to-test-code)
 	- [Test doubles in Swift: dummies, fakes, stubs, and spies.](https://mokacoding.com/blog/swift-test-doubles/)
-	- [Курс: TDD. Unit Testing](https://swiftbook.ru/content/25-index/)
 - RxSwift или Combine — чтение кода, использование операторов и семантичных сущностей.
 - Основы [**Grand Central Dispatch**](https://developer.apple.com/documentation/dispatch) - многопоточное программирование, основные понятия и методы
 
@@ -163,10 +161,8 @@
 
 ### Источники
 
-- [**iOS-разработка на Coursera**](https://ru.coursera.org/specializations/ios-dev) – бесплатный русскоязычный курс по iOS-разработке
 - [**Raywenderlich.com**](https://www.raywenderlich.com/ios) – книги и материалы по iOS-разработке. Платная подписка дает доступ к обновляемым материалам.
-- [**Swiftbook**](https://swiftbook.ru/courses/) курсы по подписке - русскоязычные курсы по основным темам, с доступной подачей
-- [**Swift Language**](https://developer.apple.com/swift/) ([**в переводе**](https://swiftbook.ru/content/docs/)) – углубленное изучение Swift
+- [**Swift Language**](https://developer.apple.com/swift/) ([**в переводе**](https://swiftbook.org/docs/tur-po-swift/)) – углубленное изучение Swift
     - [**whatsnewinswift.com**](https://www.whatsnewinswift.com/) – сравнение Swift по версиям
     - [**Swift Standard Library**](https://developer.apple.com/documentation/swift/swift_standard_library) – cтандартная библиотека aka [PureSwift](https://github.com/PureSwift)
 - [**Coordinator and FlowController**](https://github.com/onmyway133/blog/issues/106)
@@ -242,7 +238,7 @@
 <details>
   <summary>Блоги</summary>
   
-- [**https://objc.io/**](https://objc.io/) — статьи и видео
+- [**https://objc.io/**](https://www.objc.io) — статьи и видео
 - [**https://www.swiftbysundell.com/**](https://www.swiftbysundell.com/) — блог и подкаст, хорошие статьи по базовым материалам
 - [**https://nshipster.com**](https://nshipster.com/) — блог с глубокими знаниями и разбором от инженера Apple
 - [**https://www.avanderlee.com**](https://www.avanderlee.com/) — блог с хорошим контентом на разные темы.
@@ -252,7 +248,7 @@
 - [**https://www.hackingwithswift.com**](https://www.hackingwithswift.com/) — хороший контент. Первый выбор для поиска типичных решений вместо stackoverflow
 - [https://sarunw.com/](https://sarunw.com/) — емко, четко, по делу, и приятный сайт
 - [@SwiftfulThinking](https://www.youtube.com/@SwiftfulThinking/videos) и [@seanallen](https://www.youtube.com/@seanallen/videos) - неплохие ютуб-каналы, актуальный контент
-- [WWDC Notes](https://www.wwdcnotes.com) - краткий обзор видео и новостей с WWDC
+- [WWDC Notes](https://wwdcnotes.com/documentation/wwdcnotes/) - краткий обзор видео и новостей с WWDC
 - Ещё блоги: [https://swiftrocks.com](https://swiftrocks.com/), [https://www.vadimbulavin.com](https://www.vadimbulavin.com/), [https://byby.dev/ios](https://byby.dev/ios)
 
 
@@ -283,7 +279,6 @@
 <details>
   <summary>Swift</summary>
   
-- [**Перевод**](https://swiftbook.ru/content/docs/) официальной книги [**Swift от Apple**](https://developer.apple.com/swift/)
 - [**Сравнение фич swift по-версиям**](https://www.whatsnewinswift.com/)
 - [**Стандартная библиотека Swift**](https://developer.apple.com/documentation/swift/swift_standard_library)
 
@@ -347,4 +342,3 @@
 - [**iOS developer roadmap**](https://gist.github.com/azimin/a44086ef3e2d5992aa411b8aa60d05a3) от [Александра Зимина](https://twitter.com/ZiminAlex?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 - [**Swift developer roadmap**](https://trello.com/b/hLGyiEEE/swift-developer-roadmap) от [Ronan Rodrigo](https://twitter.com/ronanrodrigodev)
 - [**iOS developer roadmap**](https://github.com/BohdanOrlov/iOS-Developer-Roadmap/blob/master/RoadmapProject/Script/Generated/ROADMAP.md) от [Богдана Орлова](https://twitter.com/bohdan_orlov)
-- [**Таблица умений iOS-разработчика**](https://swiftbook.ru/post/tutorials/ios-deveoper-table-skillz/) от [SwiftBook](https://swiftbook.ru)
