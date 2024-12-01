@@ -42,4 +42,8 @@
 
 Наши документы используют язык разметки [Markdown](https://ru.wikipedia.org/wiki/Markdown). Если вы не работали в markdown, то быстро научитесь. [Ознакомьтесь с синтаксисом](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
-Ссылки в документах проверяются через [action-linkspector](https://github.com/UmbrellaDocs/action-linkspector). Проверка работоспособности ссылок происходит при создании `Push` в рабочую ветку или `main` или при `Pull Request` в ветку `main`. Информация о проверке выводится на странице `Pull Request`.
+### Github Actions
+
+Работоспособность ссылок в документах проверяются через [action-linkspector](https://github.com/UmbrellaDocs/action-linkspector). Орфография проверяется через python-скрипт.
+
+Проверки запускаются при команде `Push` в рабочую ветку или `main` или при `Pull Request` в ветку `main`. Информация о проверке выводится на странице `Pull Request` или на вкладке Actions.

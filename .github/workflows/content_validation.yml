@@ -40,4 +40,4 @@ jobs:
 
       - name: Run spell checker
         run: |
-          python scripts/spell_check.py
+          python .github/scripts/spell_check.py
