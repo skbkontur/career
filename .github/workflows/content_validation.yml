@@ -36,6 +36,7 @@ jobs:
         run: |
           python -m pip install --upgrade pip  
           pip install pyenchant
+          pip install names
           sudo apt-get install -y aspell-ru hunspell-ru
 
       - name: Run spell checker

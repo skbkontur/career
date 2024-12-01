@@ -22,7 +22,7 @@
 - Нассис Талеб «Антихрупкость».
 
 #### Youtube
-- [Кто такой менеджер разработки](https://youtu.be/wjPfvmugyd0?si=KOPrJuCsDTOfRjtk).
+- [Кто токой менеджер разработки](https://youtu.be/wjPfvmugyd0?si=KOPrJuCsDTOfRjtk).
 - [О ролях в разработке](https://www.youtube.com/playlist?list=PLc82OEDeni8RFsfRuEkWCAtd4R39dnkds).
 - Игорь Устюжанин [«Комната с опускающимся потолком»](https://www.youtube.com/watch?v=xwRt1Ozz7cA).
 - Максим Дорофеев [«Эффективность неэффективности»](https://www.youtube.com/watch?v=XDF02KmgJFE).
