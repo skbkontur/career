@@ -11,7 +11,8 @@
 
 ---
 
-# роцессы
+# Процессы
+
 #### Литература
 - Сазерленд Джефф «Scrum. Революционный метод управления проектами».
 - Иван Селиховкин «Черная книга Скрам».
@@ -30,13 +31,15 @@
 ---
 
 # Люди
+
 #### Литература
 - Максим Ильяхов «Новые правила деловой переписки».
-- Рейнвотер Дж. Ханк «Как пасти котов. Наставление для программистов, руководящих другими программистами».
-- Максим Батырев «45 татуировок менеджера».
+- Пинк Дэниел «Драйв: Что на самом деле нас мотивирует».
+- Уилл Ларсон «Элегантная головоломка. Системы инженерного менеджмента».
 - Апелло Юрген «Agile-менеджмент: Лидерство и управление командами».
 - Роб Фитцпатрик «Спроси маму».
 - Виталий Шароватов [«О разработке и людях (про увольнения)»](https://sharovatov.github.io/entries/2020-06-firing.html).
+- Максим Батырев «45 татуировок менеджера».
 
 #### Youtube
 - Клава Потапова [«Руководитель, от которого не уходят, — кто он?»](https://www.youtube.com/watch?v=pnRV2TTl63E).
@@ -47,9 +50,10 @@
 ---
 
 # Продукты
+
 #### Литература
 - Даниэль Канеман «Думай медленно... Решай быстро».
-- Эльяху Голдратт «Цель».
+- Эльяху Голдратт «Цель», «Цель 2», «Критическая цепь».
 - Нассим Талеб «Шкура на кону».
 - Эрик Рис. «Бизнес с нуля. Метод Lean Startup для быстрого тестирования идей и выбора бизнес-модели».
 - Джефф Паттон «Пользовательские истории. Искусство гибкой разработки ПО».
@@ -57,6 +61,7 @@
 ---
 
 # Проекты
+
 #### Литература
 - Том ДеМарко «Deadline. Роман об управлении проектами».
 - Скотт Беркун «Искусство управления IT-проектами».
@@ -71,6 +76,7 @@
 ---
 
 # Тайм-менеджемент
+
 #### Литература
 - Максим Дорофеев «Джедайские техники».
 - Максим Ильяхов «Пиши, сокращай».
@@ -79,6 +85,7 @@
 ---
 
 # Лидерство
+
 #### Литература
 - Ицхак Адизес «Развитие лидеров. Как понять свой стиль управления и эффективно общаться с носителями иных стилей».
 - Тодд Генри «Укрощение тигров. Как стать лидером творческой команды».
@@ -87,6 +94,7 @@
 ---
 
 # Фасилитация
+
 #### Литература
 - Сэм Кейнер «Руководство фасилитатора».
 - Диана Ларсен, Эстер Дерби «Agile ретроспектива. Как превратить хорошую команду в великую».
@@ -94,46 +102,52 @@
 ---
 
 # Для общего кругозора менеджера в IT
+
 ## Ресурсы
-- https://tech.kontur.ru/managers
-- https://www.atlassian.com/agile
-- https://smartreading.ru
+- [tech.kontur.ru](https://tech.kontur.ru/managers).
+- [Исследование руководителей разработки от devcrowd.ru](https://devcrowd.ru/tl24/).
+- [Atlassian](https://www.atlassian.com/agile).
+- [Smartreading](https://smartreading.ru).
 
 ## Курсы
-- [ScrumTrek](https://scrumtrek.ru/blog/knowledge-base/)
-- [Яндекс практикум](https://yandex.ru/jobs/pages/techman-interview)
-- [Стратоплан](https://stratoplan-school.com)
+- [Стратоплан](https://stratoplan-school.com).
+- [Яндекс практикум](https://yandex.ru/jobs/pages/techman-interview).
+- [ScrumTrek](https://scrumtrek.ru/blog/knowledge-base/).
 
 ## Подкасты
-- [Podlodka podcast](https://music.yandex.ru/album/7570122?dir=desc&activeTab=about)
-- [Бреслав и Ложечкин](https://music.yandex.ru/album/25789910?dir=desc&activeTab=about)
-- [Выпуск завтра](https://music.yandex.ru/album/9294155?activeTab=track-list)
+- [Podlodka podcast](https://music.yandex.ru/album/7570122?dir=desc&activeTab=about).
+- [Бреслав и Ложечкин](https://music.yandex.ru/album/25789910?dir=desc&activeTab=about).
+- [Выпуск завтра](https://music.yandex.ru/album/9294155?activeTab=track-list).
 
 ## Телеграм-каналы
-- [Технологии в Контуре](https://t.me/KonturTech) 
-- [FEDOR BORSHEV](https://t.me/pmdaily)
-- [Teamlead Good Reads](http://t.me/leadgr) 
-- [Daily Reminder](https://t.me/justakindreminder)
-- [TechSparks](https://t.me/techsparks)
-- [Чтобы не выгорать](https://t.me/notburningout)
+- [Технологии в Контуре](https://t.me/KonturTech).
+- [FEDOR BORSHEV](https://t.me/pmdaily).
+- [Teamlead Good Reads](http://t.me/leadgr).
+- [Daily Reminder](https://t.me/justakindreminder).
+- [TechSparks](https://t.me/techsparks).
+- [Чтобы не выгорать](https://t.me/notburningout).
 
 ## Профильные конференции
-- [Teamlead Conf](https://teamleadconf.ru) ([youtube](https://youtube.com/@managementchannel))
-- [Product sense](https://productsense.io) ([youtube](https://www.youtube.com/@ProductSense))
-- [Agiledays](https://agiledays.ru)([youtube](https://www.youtube.com/@ScrumTrekOfficial))
+- [Podlodka Teamlead Crew](https://podlodka.io/tlcrew).
+- [Teamlead Conf](https://teamleadconf.ru) ([youtube](https://youtube.com/@managementchannel)).
+- [Product sense](https://productsense.io) ([youtube](https://www.youtube.com/@ProductSense)).
+- [Agiledays](https://agiledays.ru) ([youtube](https://www.youtube.com/@ScrumTrekOfficial)).
 
 ## Роадмэпы тимлидов
 - [Карта компетенций менеджера разработки](https://miro.com/app/board/o9J_kwJaDMk=/) от Контура.
 - [Профили технических менеджеров](https://github.com/avito-tech/playbook/blob/master/techlead-profile.md) от Avito Tech.
 - [Teamlead Roadmap](https://tlroadmap.io) от Егора Толстого.
 
-## Что ещё
+## Что-то ещё
 - Элиезер Юдковский «Гарри Поттер и методы рационального мышления».
 - Марк Мэнсон «Тонкое искусство пофигизма».
+- Патрик Ленсиони «Пять пороков команды», «Почему не все любят ходить на работу. Правда о вовлеченности сотрудников».
+- Мэри и Тома Поппендик «Бережливое производство программного обеспечения: от идеи до прибыли».
+- [Плейлист для TeamLead / TechLead от AvitoTech](https://www.youtube.com/playlist?list=PLknJ4Vr6efQHZAidwoVPiRIpRLp-195AY).
 - О системах материальной и нематериальной мотивации у сотрудников.
 - О discovery и delivery процессах.
 - О принципах JTBD и CusDev.
-- Обзорно о фреймворках:  SAFe (Scaled Agile Framework), LeSS (Large-Scale Scrum), Nexus Framework, DA (Disciplined Agile), FDD (Feature-Driven Development)
+- Обзорно о фреймворках:  SAFe (Scaled Agile Framework), LeSS (Large-Scale Scrum), Nexus Framework, DA (Disciplined Agile), FDD (Feature-Driven Development).
 - Записи кейс-клубов и управленческих поединков.
 
 ---
