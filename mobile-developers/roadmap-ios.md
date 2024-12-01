@@ -27,7 +27,7 @@
 - использование выражений `if/else`,
 - оператора `switch`,
 - циклов,
-- инструкций `break`, `continue` и т.д.
+- инструкций `break`, `continue`.
 
 </details>
 <details>
@@ -141,7 +141,7 @@
 - Xcode
 - Система контроля версий git и основные команды push, pull, commit, tags, merge/pull request, rebase, merge, cherry-pick, stash
 - Профилирование и дебаг: поиск утечек памяти, циклов, дебаг UI, брейкпоинты, работа с консолью
-- Принципы ООП, SOLID, KISS, DRY, YAGNI и т.п.
+- Принципы ООП, SOLID, KISS, DRY, YAGNI.
 
 </details>
 <details>
@@ -247,7 +247,7 @@
 - [**https://refactoring.guru/ru**](https://refactoring.guru/ru) - отличный сайт, есть книга. Паттерны ООП, разбор рефакторинга, примеры кода.
 - [**https://www.hackingwithswift.com**](https://www.hackingwithswift.com/) — хороший контент. Первый выбор для поиска типичных решений вместо stackoverflow
 - [https://sarunw.com/](https://sarunw.com/) — емко, четко, по делу, и приятный сайт
-- [@SwiftfulThinking](https://www.youtube.com/@SwiftfulThinking/videos) и [@seanallen](https://www.youtube.com/@seanallen/videos) - неплохие ютуб-каналы, актуальный контент
+- [@SwiftfulThinking](https://www.youtube.com/@SwiftfulThinking/videos) и [@seanallen](https://www.youtube.com/@seanallen/videos) - неплохие Youtube-каналы, актуальный контент
 - [WWDC Notes](https://wwdcnotes.com/documentation/wwdcnotes/) - краткий обзор видео и новостей с WWDC
 - Ещё блоги: [https://swiftrocks.com](https://swiftrocks.com/), [https://www.vadimbulavin.com](https://www.vadimbulavin.com/), [https://byby.dev/ios](https://byby.dev/ios)
 
@@ -279,7 +279,7 @@
 <details>
   <summary>Swift</summary>
   
-- [**Сравнение фич swift по-версиям**](https://www.whatsnewinswift.com/)
+- [**Сравнение фич swift по версиям**](https://www.whatsnewinswift.com/)
 - [**Стандартная библиотека Swift**](https://developer.apple.com/documentation/swift/swift_standard_library)
 
 </details>
@@ -331,8 +331,7 @@
 
 ### Roadmap
 
-- [**TeamLead roadmap**](https://tlroadmap.io/) – как развиваться самому в качестве тимлида.
-Роадмэп от Егора Толстого
+- [**TeamLead roadmap**](https://tlroadmap.io/) – как развиваться самому в качестве TeamLead. Roadmap от Егора Толстого
 
 ### Other Roadmaps
 

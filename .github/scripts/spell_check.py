@@ -128,9 +128,7 @@ def main():
     # Если найдены ошибки, завершить с кодом 1
     if error_found:
         print("Spell check found errors. Exiting with failure.")
-        # Но пока все исключения не добавлены в словарь, пусть джоба бует зеленой.
-        # sys.exit(1)
-        sys.exit(0)
+        sys.exit(1)
     else:
         print("No spelling errors found.")
         sys.exit(0)

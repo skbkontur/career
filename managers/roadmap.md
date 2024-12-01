@@ -1,13 +1,13 @@
 # Что почитать менеджеру разработки
-Этот гайдлайн не претендует на вселенскую истину. Он представляет собой сборник рекомендаций, составленный на основе опыта наших коллег. Мы понимаем, что каждый человек уникален, и то, что работает для одного, может не подойти другому.
+Эти материалы не претендуют на вселенскую истину. Мы составили сборник рекомендаций на основе опыта наших коллег. Мы понимаем, что каждый человек уникален, и то, что работает для одного, может не подойти другому.
 
-Часть наших коллег обучалась по этому гайдлайну, и они нашли в нем полезные советы и ресурсы. Однако, мы призываем вас критически оценивать каждую рекомендацию и адаптировать ее под свои нужды и контекст.
+Часть наших коллег обучалась по этим материалам, и они нашли в них полезные советы и ресурсы. Однако, мы призываем вас критически оценивать каждую рекомендацию и адаптировать ее под свои нужды и контекст.
 
 Удачи в вашем профессиональном развитии!
 
 ---
 
-На наш взгляд ключевые навыки профессии менеджера разработки лежат в организации процессов производства, ответственности за коллектив людей, развитии продукта и управлении проектами. Ещё мы ценим навыки планирования и тайм-менеджмента, управления рисками и знания инструментов разработки, эффективные коммуникации, лидерство и навыки фасилитации.
+На наш взгляд ключевые навыки профессии менеджера разработки лежат в организации процессов производства, ответственности за коллектив людей, развитии продукта и управлении проектами. Ещё мы ценим навыки планирования и тайм-менеджмента, управления рисками и знания инструментов разработки, эффективные коммуникации, лидерство и фасилитация.
 
 ---
 
@@ -19,10 +19,10 @@
 - Дэвид Дж. Андерсон «Альтернативный путь в Agile. Канбан».
 - Алексей Пименов «Канбан Метод. Базовая практика».
 - Сергей Зыков «Основы проектирования корпоративных систем».
-- Нассис Талеб «Антихрупкость».
+- Нассим Талеб «Антихрупкость».
 
 #### Youtube
-- [Кто токой менеджер разработки](https://youtu.be/wjPfvmugyd0?si=KOPrJuCsDTOfRjtk).
+- [Кто такой менеджер разработки](https://youtu.be/wjPfvmugyd0?si=KOPrJuCsDTOfRjtk).
 - [О ролях в разработке](https://www.youtube.com/playlist?list=PLc82OEDeni8RFsfRuEkWCAtd4R39dnkds).
 - Игорь Устюжанин [«Комната с опускающимся потолком»](https://www.youtube.com/watch?v=xwRt1Ozz7cA).
 - Максим Дорофеев [«Эффективность неэффективности»](https://www.youtube.com/watch?v=XDF02KmgJFE).
@@ -75,7 +75,7 @@
 
 ---
 
-# Тайм-менеджемент
+# Тайм-менеджмент
 
 #### Литература
 - Максим Дорофеев «Джедайские техники».
@@ -104,8 +104,8 @@
 # Для общего кругозора менеджера в IT
 
 ## Ресурсы
-- [tech.kontur.ru](https://tech.kontur.ru/managers).
-- [Исследование руководителей разработки от devcrowd.ru](https://devcrowd.ru/tl24/).
+- [Технологии в Контуре](https://tech.kontur.ru/managers).
+- [Исследование руководителей разработки от devcrowd](https://devcrowd.ru/tl24/).
 - [Atlassian](https://www.atlassian.com/agile).
 - [Smartreading](https://smartreading.ru).
 
@@ -122,21 +122,21 @@
 ## Телеграм-каналы
 - [Технологии в Контуре](https://t.me/KonturTech).
 - [FEDOR BORSHEV](https://t.me/pmdaily).
-- [Teamlead Good Reads](http://t.me/leadgr).
+- [TeamLead Good Reads](http://t.me/leadgr).
 - [Daily Reminder](https://t.me/justakindreminder).
 - [TechSparks](https://t.me/techsparks).
 - [Чтобы не выгорать](https://t.me/notburningout).
 
 ## Профильные конференции
-- [Podlodka Teamlead Crew](https://podlodka.io/tlcrew).
-- [Teamlead Conf](https://teamleadconf.ru) ([youtube](https://youtube.com/@managementchannel)).
-- [Product sense](https://productsense.io) ([youtube](https://www.youtube.com/@ProductSense)).
-- [Agiledays](https://agiledays.ru) ([youtube](https://www.youtube.com/@ScrumTrekOfficial)).
+- [Podlodka TeamLead Crew](https://podlodka.io/tlcrew).
+- [TeamLead Conf](https://teamleadconf.ru) ([Youtube](https://youtube.com/@managementchannel)).
+- [Product sense](https://productsense.io) ([Youtube](https://www.youtube.com/@ProductSense)).
+- [AgileDays](https://agiledays.ru) ([Youtube](https://www.youtube.com/@ScrumTrekOfficial)).
 
-## Роадмэпы тимлидов
+## Roadmaps
 - [Карта компетенций менеджера разработки](https://miro.com/app/board/o9J_kwJaDMk=/) от Контура.
 - [Профили технических менеджеров](https://github.com/avito-tech/playbook/blob/master/techlead-profile.md) от Avito Tech.
-- [Teamlead Roadmap](https://tlroadmap.io) от Егора Толстого.
+- [TeamLead Roadmap](https://tlroadmap.io) от Егора Толстого.
 
 ## Что-то ещё
 - Элиезер Юдковский «Гарри Поттер и методы рационального мышления».
@@ -173,7 +173,7 @@
 
 #### Курсы по языкам программирования
 - [Python на Ulearn](https://ulearn.me/course/python/Yazyk_Python_cfe94d1b-80ef-4256-8f7c-303c2c49c24b)
-- [Основы JS (HTML, CSS)](https://htmlacademy.ru)
+- [Основы JavaScript (HTML, CSS)](https://htmlacademy.ru)
 
 ## Тестирование
 - Рекс Блек «Ключевые процессы тестирования».

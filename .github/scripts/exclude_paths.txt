@@ -1,5 +1,4 @@
 .git/
 .github/
-scripts/
-LICENSE
 .gitignore
+LICENSE

@@ -30,7 +30,7 @@
 - Логические выражения: `if/else`, `when`, `while`, `for`
 - Базовые коллекции: `ArrayList`, `LinkedList`,`HashMap`, `LinkedHashMap`,`HashSet`, `ArrayDeque`
 - [**Модификаторы доступа**](https://kotlinlang.ru/docs/reference/visibility-modifiers.html)
-    Определяют откуда функция будет доступна для вызова. Например, некоторые функции можно скрыть для всех классов кроме того, в котором она объявлена. Это помогает в соблюдении принципа инкапсуляци
+    Определяют откуда функция будет доступна для вызова. Например, некоторые функции можно скрыть для всех классов кроме того, в котором она объявлена. Это помогает в соблюдении принципа инкапсуляции.
 <details>
   <summary>Функции, классы, интерфейсы и объекты</summary>
   
@@ -60,7 +60,7 @@
 - [**Context**](https://developer.alexanderklimov.ru/android/theory/context.php)
     C помощью этого класса можно взаимодействовать с системой Android
 - [**SharedPreferences**](http://developer.alexanderklimov.ru/android/theory/sharedpreferences.php)
-    Cамый простой способ постоянно хранить данные в памяти. Данные хранятся по принципу «ключ - значение»
+    Самый простой способ постоянно хранить данные в памяти. Данные хранятся по принципу «ключ - значение»
 - [**AndroidManifest.xml**](http://developer.alexanderklimov.ru/android/theory/AndroidManifestXML.php)
     Файл, в котором указываются название приложения, его иконка, версия, разрешения, стартовая Activity и другие базовый компоненты приложения
 - [**Gradle**](https://riptutorial.com/android-gradle)
@@ -203,7 +203,7 @@ Junior-разработчик – полноценный член команды
 - Работа с сетью
     - Иметь представление в каком виде приходят данные с сервера.
     Как проходит сериализация и десериализация
-    - Библиотека okHttp (встроена в ретрофит)
+    - Библиотека OkHttp (встроена в Retrofit)
 - Навигация между фрагментами/активити
     Cicerone, Jetpack navigation    
 - Многопоточность
@@ -223,7 +223,7 @@ Junior-разработчик – полноценный член команды
 - Тестирование приложения
     - Unit-тесты    
         Тестируют отдельные классы и методы.    
-        Самые популярные библиотеки – Junit, Mockito    
+        Самые популярные библиотеки – JUnit, Mockito    
     - UI-тесты    
         Тестируют работу приложения в целом, имитируя действия реального пользователя. Библиотеки для UI тестов - Espresso, Kaspresso, Kakao
 - [**Material Design**](https://material.io) - дизайн нативных android-интерфейсов, разработанный Google
@@ -238,7 +238,7 @@ Junior-разработчик – полноценный член команды
     - Proxyman
     - [**Stetho**](http://facebook.github.io/stetho/)
 - Hotkey - с их помощью можно быстро переименовывать файлы, названия переменных, классов или методов. Можно увидеть все использования функции или класса, и много чего еще - [**ссылка**](https://medium.com/mindorks/11-android-studio-shortcuts-every-android-developer-must-know-a153e736e611)
-- Эмуляторы - эмулирует Android на компьютере. Это полезно, если нужно проверить работу приложения на определенной версии системы, или на устройстве с большим/маленьким размером экрана. Позволяет задавать практически любую конфигурацию - менять версию андроид, размер экрана, эмулировать камеру, местоположение и т.д.
+- Эмуляторы - эмулирует Android на компьютере. Это полезно, если нужно проверить работу приложения на определенной версии системы, или на устройстве с большим/маленьким размером экрана. Позволяет задавать практически любую конфигурацию - менять версию Android, размер экрана, эмулировать камеру, местоположение.
     
 #### ООП
 
@@ -291,10 +291,10 @@ Junior-разработчик – полноценный член команды
   <summary>Курсы</summary>
   
 1. [**Курс от Doubletapp**](https://www.youtube.com/playlist?list=PLQ09TvuOLytS_vYHtFHQzZJFcnbYCYF6x)
-2. [**Уроки по разработке от Mail.ru**](https://youtu.be/GmZEFB0is6Y) (видео) + **[Курс по Android в Технополисе 2019](https://github.com/polis-vk/2019-android)** (текст)
+2. [**Уроки по разработке от Mail.ru**](https://youtu.be/GmZEFB0is6Y) (видео) + **[Курс по Android в Технополисе 2019](https://github.com/polis-vk/2019-android)**
 3. [**Школа мобильной разработки от Yandex**](https://www.youtube.com/playlist?list=PLQC2_0cDcSKBNCR8UWeElzCUuFkXASduz)
 4. [**Уроки по Android/Kotlin от SkillBranch**](https://www.youtube.com/channel/UCWLKyJUZ32GJvSIisQjU3kw/playlists)
-5. [**Бесплатный текстовый курс по Андроид разработке**](https://github.com/ArturVasilov/AndroidSchool)
+5. [**Бесплатный текстовый курс по Android разработке**](https://github.com/ArturVasilov/AndroidSchool)
 
 </details>
   
@@ -414,5 +414,4 @@ Compose Multiplatform
 
 ### Roadmap
 
-- [**TeamLead roadmap**](https://tlroadmap.io/) – как развиваться самому в качестве тимлида.
-Роадмэп от Егора Толстого
+- [**TeamLead Roadmap**](https://tlroadmap.io/) – как развиваться самому в качестве TeamLead. Roadmap от Егора Толстого.
