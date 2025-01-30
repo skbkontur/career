@@ -93,12 +93,12 @@
 
 - [Снифферы трафика и обзор Charles, Fiddler, Proxyman](https://www.youtube.com/watch?v=Q6fHTKAE0lk&utm_source=chatgpt.com)
 
-Далее перечислим полезные маатериалы по работе с различными снифферами. Не нужно изучать материалы по каждому инструменту. Лучше выбрать один и пользоваться им.
+Далее перечислим полезные материалы по работе с различными снифферами. Не нужно изучать статьи по каждому инструменту. Лучше выбрать один и пользоваться им.
 
 #### Charles Proxy:
 
 - [Официальный сайт](https://www.charlesproxy.com/)
-- [Настройка Charles Proxy для тестирования мобильных приложений](https://testgroru/article27)
+- [Настройка Charles Proxy для тестирования мобильных приложений](https://testgrow.ru/article27)
 - [Видеоурок: "Установка и Настройка Charles Proxy и подключение смартфона"](https://www.youtube.com/watch?v=6DIrVKlu1t0)
 - [Charles Proxy. Practice for QA Engineer](https://youtu.be/74mvpPOczgI?si=bqfkTD6JKIrtoHHZ)
 
@@ -152,9 +152,9 @@
 
 
 - [Канал Артема Русова](https://www.youtube.com/@rusau) - здесь очень много полезной информации, в т.ч., [подборка для мобильных тестировщиков](https://wiki.skbkontur.ru/pages/viewpage.action?pageId=894127499) 
-- [Software Testing by QA Valley](https://www.youtube.com/@QAVALLEY) – англоязычный канал с видео о тестировании, включая мобильные приложения.
+- [QA Mobile](https://youtube.com/@qamobile?si=HzraSvI-6h4qYx6M) – канал о мобильном тестировании.
 - [QA TestLab](https://www.youtube.com/@QATestLab) – канал с полезными видео о тестировании веб- и мобильных приложений.
-- [Automation Step by Step](https://www.youtube.com/@AutomationStepByStep) – уроки по инструментам автоматизации тестирования.
+- [Automation Step by Step](https://youtube.com/@raghavpal?si=vSOOIHyZfWLzM9Ss) – уроки по инструментам автоматизации тестирования.
 
 ### Литература:
 
