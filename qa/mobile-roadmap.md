@@ -37,8 +37,8 @@
 - [Гайдлайны Google Material и Apple Human Interface](https://www.youtube.com/watch?v=28m34MR_g2c) — полезное видео про гайдлайны
 - [iOS и Android в дизайне](https://www.youtube.com/watch?v=eBlPBoCStp4) — еще одно видео
 - [Гайдлайны Android и iOS](https://software-testing.ru/library/testing/mobile-testing/3103-android-and-ios-guidelines)
-- [Material Design](https://m3.material.io/) 
-- [Human Interface](https://developer.apple.com/design/human-interface-guidelines/)
+- [Material Design](https://m3.material.io/) - рекомендации по проектированию интерфейса приложения от Google
+- [Human Interface](https://developer.apple.com/design/human-interface-guidelines/) - гайдлайны iOS - рекомендации по проектированию интерфейса приложения на устройствах Apple
 
 ## Проверки, специфичные для мобильных приложений
 
@@ -78,7 +78,7 @@
 
 - [Официальное руководство пользователя Genymotion](https://docs.genymotion.com/desktop/) - Подробная документация от разработчиков, охватывающая все аспекты использования Genymotion, включая установку, настройку и основные функции.
 - [Руководство по использованию Genymotion для новичков](https://fb.ru/article/498574/2023-genymotion-kak-polzovatsya-podrobnoe-rukovodstvo-dlya-novichkov) - Статья, подробно описывающая процесс установки и настройки Genymotion, а также решение распространенных проблем, с которыми могут столкнуться новички.
-  - [Мы спасены! Genymotion — забудьте про вашего медленного эмулятора Android](https://habr.com/ru/articles/185096) - Статья на Хабре, рассказывающая о преимуществах использования Genymotion по сравнению с другими эмуляторами Android.
+- [Мы спасены! Genymotion — забудьте про вашего медленного эмулятора Android](https://habr.com/ru/articles/185096) - Статья на Хабре, рассказывающая о преимуществах использования Genymotion по сравнению с другими эмуляторами Android.
 
 ### Работа с логами
 
