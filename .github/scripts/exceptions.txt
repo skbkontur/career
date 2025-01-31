@@ -6,6 +6,7 @@
 акторов
 акторы
 Алистер
+Алферов
 Андерсон
 Антихрупкость
 Апелло
@@ -54,8 +55,8 @@
 Ленгольд
 Ленсиони
 Логан
-Логирование
 логирование
+Логирование
 Ложечкин
 лямбды
 Миддл
@@ -68,11 +69,11 @@
 опциональная
 опциональные
 Орлова
-Паттерн
 паттерн
+Паттерн
 паттернов
-Паттерны
 паттерны
+Паттерны
 Паттон
 Пименов
 подкаст
@@ -96,6 +97,7 @@
 сервисы
 Сервисы
 сериализация
+синкаксиса
 скиллы
 Скрам
 сущностей
@@ -103,13 +105,14 @@
 Талеб
 Телеграм
 Технополисе
+тимлида
 Тодд
 Туториалы
 УАЗ
 Уилл
 фасилитатора
-Фасилитация
 фасилитация
+Фасилитация
 Фаулер
 Фитцпатрик
 фич
@@ -181,12 +184,14 @@ CLI
 Cloud
 CloudKit
 Cocoa Touch
-CocoaPods
 Cocoapods
+CocoaPods
 Codable
 CodeReview
 CodeWars
 CodinGames
+config
+Config
 ContentProvider
 CoreAnimation
 CoreData
@@ -196,6 +201,7 @@ coroutines
 Crashlogs
 CSS
 CSS3
+Ctrl
 CusDev
 D8
 Dagger
@@ -216,8 +222,8 @@ Eckel
 ElasticSearch
 Encryption
 Entity
-Enum
 enum
+Enum
 EnvironmentObject
 Erlang
 ES6
@@ -238,8 +244,8 @@ getOrElse
 Git
 GitHub
 GitLab
-Gradle
 gradle
+Gradle
 GraphQL
 groupBy
 Haase
@@ -259,6 +265,7 @@ Isakova
 iTunes Connect
 JavaScript
 Jetpack
+json
 JSON
 JTBD
 JUnit
@@ -291,6 +298,8 @@ MainActor
 Manifest
 MapKit
 Marcin
+markdownlint
+Markdownlint
 Material Design
 Mattt
 Maven
@@ -332,8 +341,8 @@ PMBOK
 Podlodka
 PostgreSQL
 ProDev
-ProGuard
 Proguard
+ProGuard
 Proxyman
 PureSwift
 Push Notifications
@@ -430,8 +439,8 @@ ViewModifier
 Vue.js
 WatchKit
 WatchOS
-WebSocket
 websocket
+WebSocket
 WebSockets
 whatsnewinswift
 WidgetKit
@@ -439,9 +448,9 @@ wikipedia
 WWDC
 Xcode
 XCTest
-XML
-Xml
 xml
+Xml
+XML
 YAGNI
 YAML
 Yandex

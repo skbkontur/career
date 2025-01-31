@@ -1,6 +1,7 @@
 # Внесение изменений в документы
 
 ## Что предлагать
+
 Принимаются корректировки опечаток.
 
 Мы рады предложениям по добавлению новых источников, актуализации существующих или удалению устаревший. Такие предложения оцениваются коллективом авторов, который оставляет за собой права отказать в принятии изменений.
@@ -18,9 +19,9 @@
 - Сохраните изменения, нажав `Commit changes`.
 
 - В открывшемся окне:
-    * Напишите сообщение в поле `Commit message`; 
-    * Создайте новую ветку, выбрав `Create a new branch for this commit and start a pull request`;
-    * Дайте название ветке.
+  - Напишите сообщение в поле `Commit message`;
+  - Создайте новую ветку, выбрав `Create a new branch for this commit and start a pull request`;
+  - Дайте название ветке.
 
 - Сохраните изменения через кнопку `Propose changes`.
 
@@ -41,6 +42,16 @@
 ### Markdown
 
 Наши документы используют язык разметки [Markdown](https://ru.wikipedia.org/wiki/Markdown). Если вы не работали в markdown, то быстро научитесь. [Ознакомьтесь с синтаксисом](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
+Для проверки корректности синтаксиса markdown в Visual Studio Code рекомендуем использовать расширение [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint). Запуск проверки синкаксиса `Ctrl+Shift+M` или `⇧+⌘+M`.
+
+Перейти в Markdownlint: Config. В настройках расширения дополнительно указать:
+
+```json
+"markdownlint.config": {
+        "no-duplicate-heading": false
+    }
+```
 
 ### GitHub Actions
 
