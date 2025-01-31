@@ -49,12 +49,14 @@
 
 ```json
 "markdownlint.config": {
-        "no-duplicate-heading": false
+    "MD013": false,
+    "MD024": false,
+    "MD033": false
     }
 ```
 
 ### GitHub Actions
 
-Работоспособность ссылок в документах проверяются через [action-linkspector](https://github.com/UmbrellaDocs/action-linkspector). Орфография проверяется через python-скрипт.
+Работоспособность ссылок в документах проверяются через [action-linkspector](https://github.com/UmbrellaDocs/action-linkspector). Синтаксис markdown – через [markdownlint-cli2](https://github.com/DavidAnson/markdownlint-cli2). Орфография – через python-скрипт.
 
 Проверки запускаются при команде `Push` в рабочую ветку или `main` или при `Pull Request` в ветку `main`. Информация о проверке выводится на странице `Pull Request` или на вкладке Actions.

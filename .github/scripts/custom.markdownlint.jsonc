@@ -1,0 +1,10 @@
+/*
+Документация по кодам ошибок
+https://github.com/DavidAnson/markdownlint/tree/v0.37.4/doc
+*/
+
+{
+    "MD013": false,
+    "MD024": false,
+    "MD033": false
+}

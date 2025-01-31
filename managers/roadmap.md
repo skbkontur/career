@@ -120,7 +120,8 @@
 - [Atlassian](https://www.atlassian.com/agile)
 - [Smartreading](https://smartreading.ru)
 
-## Подкасты
+### Подкасты
+
 - [Podlodka podcast](https://music.yandex.ru/album/7570122?dir=desc&activeTab=about).
   - [Podlodka #166 – Переговоры](https://on.soundcloud.com/MorfdzUGVQyxwmfM7)
   - [Podlodka #383 – Переговоры о деньгах](https://on.soundcloud.com/t3gNKJ3cK5U2iFBu5)
@@ -133,17 +134,6 @@
 - [Стратоплан](https://stratoplan-school.com)
 - [Яндекс практикум](https://yandex.ru/jobs/pages/techman-interview)
 - [ScrumTrek](https://scrumtrek.ru/blog/knowledge-base/)
-
-### Подкасты
-
-- [Podlodka podcast](https://music.yandex.ru/album/7570122?dir=desc&activeTab=about)
-  - [Podlodka #166 – Переговоры](https://on.soundcloud.com/MorfdzUGVQyxwmfM7)
-  - [Podlodka #383 – Переговоры о деньгах](https://on.soundcloud.com/t3gNKJ3cK5U2iFBu5)
-  - [Podlodka #132 – Дисфункции организаций](https://on.soundcloud.com/TtCawL8r1vbiv1pm6)
-  - [Podlodka #169 – Увольнения](https://on.soundcloud.com/vZgYj3au5VgFi1ZG8)
-  - [Podlodka #132 – Обязательные знания для тимлида](https://on.soundcloud.com/zVkgSFRoLJw4pMFbA)
-- [Бреслав и Ложечкин](https://music.yandex.ru/album/25789910?dir=desc&activeTab=about)
-- [Выпуск завтра](https://music.yandex.ru/album/9294155?activeTab=track-list)
 
 ### Телеграм-каналы
 

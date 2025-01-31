@@ -9,6 +9,15 @@ on:
       - 'main'
 
 jobs:
+  markdown_check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: DavidAnson/markdownlint-cli2-action@v19
+        with:
+          config: '.github/scripts/custom.markdownlint.jsonc'
+          globs: '**/*.md'
 
   links_check:
     runs-on: ubuntu-latest
