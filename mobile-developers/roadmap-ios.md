@@ -288,7 +288,6 @@
   
 - [**RxSwift Playground**](https://github.com/ReactiveX/RxSwift/blob/master/Documentation/Playgrounds.md)
 - [**отличная книга по RxSwift с примерами**](https://store.raywenderlich.com/products/rxswift)
-- [**топ ошибок при использовании RxSwift**](http://adamborek.com/top-7-rxswift-mistakes/)
 - [**RxSwift to Combine Cheatsheet**](https://github.com/CombineCommunity/rxswift-to-combine-cheatsheet)
 - [**Using Combine**](https://heckj.github.io/swiftui-notes/index.html)
 
