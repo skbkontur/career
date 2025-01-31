@@ -181,6 +181,7 @@ ChildViewController
 Chucker
 CI/CD
 CLI
+cli2
 Cloud
 CloudKit
 Cocoa Touch
@@ -249,6 +250,7 @@ Gradle
 GraphQL
 groupBy
 Haase
+habr
 Hashable
 HashMap
 HashSet
@@ -276,7 +278,9 @@ Keychain
 Keystore
 KMP
 Koin
+kontur
 Kontur
+KonturTech
 Kotlin
 Kotlin Coroutines
 ktlint
@@ -303,6 +307,9 @@ Markdownlint
 Material Design
 Mattt
 Maven
+MD013
+MD024
+MD033
 Metal
 Mockito
 Mockk
@@ -379,6 +386,7 @@ seanallen
 sendable
 SharedPreferences
 SiriKit
+skbkontur
 SkillBranch
 Smartreading
 sparrowcode
@@ -407,6 +415,7 @@ TeamLead
 TechLead
 TechSparks
 TestFlight
+tg
 ThreeTenABP
 UI
 UI/UX
@@ -455,5 +464,6 @@ YAGNI
 YAML
 Yandex
 yaspeller
+youtube
 Youtube
 Youtube
