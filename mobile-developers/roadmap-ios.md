@@ -12,18 +12,18 @@
 - Жизненный цикл приложения и жизненный цикл контроллера
 <details>
   <summary>Концепции объектно-ориентированного программирования (ООП)</summary>
-  
+
 - типы данных
 - переменные
 - функции и методы
 - наследование
 - структуры
 - классы и протоколы
-  
+
 </details>
 <details>
   <summary>Базовые конструкции языка</summary>
-  
+
 - использование выражений `if/else`,
 - оператора `switch`,
 - циклов,
@@ -32,13 +32,13 @@
 </details>
 <details>
   <summary>Структуры данных</summary>
-  
+
 - коллекции: массивы, множества и словари
 
 </details>
 <details>
   <summary>Система контроля версий</summary>
-  
+
 - [**для чего нужен Git**](https://git-scm.com/book/ru/v2)
 - как его использовать
 	- [**онлайн-тренажер раз**](https://learngitbranching.js.org/)
@@ -47,7 +47,7 @@
 </details>
 <details>
   <summary>Проектирование программного обеспечения</summary>
-  
+
 - как организовать и оформить код для удобства чтения
 - как реализовать паттерн проектирования Model View Controller и Model View ViewModel
 
@@ -55,7 +55,7 @@
 </details>
 <details>
   <summary>Работа с сетью</summary>
-  
+
 - как выполнять асинхронные вызовы API
 - как хранить и извлекать сетевые данные
 - как использовать формат JSON для взаимодействия с сервером
@@ -84,7 +84,7 @@
 
 <details>
   <summary>Язык программирования Swift</summary>
-  
+
 - [**Classes and Structures**](https://docs.swift.org/swift-book/LanguageGuide/ClassesAndStructures.html) – классы и структуры, в чем их отличия
 - [**Property Observers и Wrappers**](https://docs.swift.org/swift-book/LanguageGuide/Properties.html)– наблюдатели и обёртки свойства
 - [**Enumerations**](https://docs.swift.org/swift-book/LanguageGuide/Enumerations.html) – перечисления ассоциативные/исходные значения
@@ -102,7 +102,7 @@
 </details>
 <details>
   <summary>Создание приложений</summary>
-  
+
 - Компоненты фреймворка [**UIKit**](https://developer.apple.com/documentation/uikit/) для создания и управления пользовательскими интерфейсами
 	- `UIView` и его основные компоненты `UIButton`, `UITextField`, `UILabel`
 	- `UIViewController` + `Child`, `UITableView`, `UINavigationController`, `UIStackView`
@@ -137,7 +137,7 @@
 </details>
 <details>
   <summary>Инструменты и процессы</summary>
-  
+
 - Xcode
 - Система контроля версий git и основные команды push, pull, commit, tags, merge/pull request, rebase, merge, cherry-pick, stash
 - Профилирование и дебаг: поиск утечек памяти, циклов, дебаг UI, брейкпоинты, работа с консолью
@@ -146,7 +146,7 @@
 </details>
 <details>
   <summary>Архитектуры</summary>
-  
+
 - [**iOS Architecture Patterns**](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52) – поверхностный обзор архитектур
 - [**MVC is not your problem**](https://www.youtube.com/watch?v=A1vzcxR-Ss0) — доклад о том, как делать MVC, не делая его massive.
 - [**Правильный MVC**](https://www.youtube.com/watch?v=J8u-tIt5wo4) — как справиться с MVC. Доклад от Redmadrobot
@@ -181,7 +181,7 @@
 
 <details>
   <summary>Язык программирования Swift</summary>
-  
+
 - Отличия между классами, акторами и структурами и понимание о том, что из них следует использовать
 - Создание перечислений, структур, классов и протоколов
 - Функциональное программирование, использование замыканий (trailing, auto, escaping closures)
@@ -195,7 +195,7 @@
 </details>
 <details>
   <summary>Создание приложений</summary>
-  
+
 - Компоненты фреймворка [UIKit](https://developer.apple.com/documentation/uikit/): UISplitViewController, UICollectionView, жизненный цикл UIView.
 - Auto Layout - Адпативный текст и UI, Size Classes, создание ограничений в коде, понимание Layout Engine, иерархии представлений
 - SwiftUI: жизненный цикл View, View Identity, понимание как и когда перерисовывается view
@@ -217,7 +217,7 @@
 </details>
 <details>
   <summary>Инструменты и процессы</summary>
-  
+
 - CodeReview, Design Review
 - Xcode Intruments и LLDB - применение на практике для анализа проблем и отладки
 - Системы контроля версий git, GitLab
@@ -230,14 +230,14 @@
 
 <details>
   <summary>Периодические материалы</summary>
-  
+
 - [**https://podlodka.io/**](https://podlodka.io) — подкаст обо всём
 - [**https://iosdevweekly.com**](https://iosdevweekly.com/) — недельный дайджест мира iOS/macOS разработки
 
 </details>
 <details>
   <summary>Блоги</summary>
-  
+
 - [**https://objc.io/**](https://www.objc.io) — статьи и видео
 - [**https://www.swiftbysundell.com/**](https://www.swiftbysundell.com/) — блог и подкаст, хорошие статьи по базовым материалам
 - [**https://nshipster.com**](https://nshipster.com/) — блог с глубокими знаниями и разбором от инженера Apple
@@ -255,7 +255,7 @@
 </details>
 <details>
   <summary>Статьи</summary>
-  
+
 - [**Поверхностный обзор архитектур**](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52)
 - [**Математические основы AutoLayout**](https://habr.com/ru/company/oleg-bunin/blog/437584/)
 - [**MVC, и как его можно улучшить**](https://rambo.codes/posts/2020-02-20-mvc-with-sugar).
@@ -268,7 +268,7 @@
 </details>
 <details>
   <summary>Книги</summary>
-  
+
 - [**App Architecture**](https://www.objc.io/books/app-architecture/) – книга по архитектурам с примерами
 - [**Книги на objc.io**](https://www.objc.io/books)
 - [**Разные книги с крутым контентом**](https://store.raywenderlich.com/)
@@ -278,24 +278,23 @@
 </details>
 <details>
   <summary>Swift</summary>
-  
+
 - [**Сравнение фич swift по версиям**](https://www.whatsnewinswift.com/)
 - [**Стандартная библиотека Swift**](https://developer.apple.com/documentation/swift/swift_standard_library)
 
 </details>
 <details>
   <summary>RxSwift и Combine</summary>
-  
+
 - [**RxSwift Playground**](https://github.com/ReactiveX/RxSwift/blob/master/Documentation/Playgrounds.md)
 - [**отличная книга по RxSwift с примерами**](https://store.raywenderlich.com/products/rxswift)
-- [**топ ошибок при использовании RxSwift**](http://adamborek.com/top-7-rxswift-mistakes/)
 - [**RxSwift to Combine Cheatsheet**](https://github.com/CombineCommunity/rxswift-to-combine-cheatsheet)
 - [**Using Combine**](https://heckj.github.io/swiftui-notes/index.html)
 
 </details>
 <details>
   <summary>WWDC must watch</summary>
-  
+
 - [**Testing Tips & Tricks**](https://developer.apple.com/videos/play/wwdc2018/417/)
 - [**iOS Memory Deep Dive**](https://developer.apple.com/videos/play/wwdc2018/416/)
 - [**Understanding Crashes and Crashlogs**](https://developer.apple.com/videos/play/wwdc2018/414/)
@@ -305,7 +304,7 @@
 </details>
 <details>
   <summary>Доклады</summary>
-  
+
 - [**MVC is not your problem**](https://www.youtube.com/watch?v=A1vzcxR-Ss0) — доклад о том, как делать MVC, не делая его massive.
 - [**Правильный MVC**](https://www.youtube.com/watch?v=J8u-tIt5wo4) — как справиться с MVC. Доклад от Redmadrobot
 - [**Как работать с сетью правильно**](https://www.youtube.com/watch?v=7HtE3Ci78nU) — доклад от Сбербанка. URLSession и правильные подходы к работе с сетью.
@@ -313,7 +312,7 @@
 </details>
 <details>
   <summary>Интересные каналы Telegram</summary>
-  
+
 - [https://t.me/iosdev](https://t.me/iosdev)
 - [https://t.me/iosmakesmehate](https://t.me/iosmakesmehate)
 - [https://t.me/swift_ioss](https://t.me/swift_ioss)
