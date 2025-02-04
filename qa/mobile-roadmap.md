@@ -23,7 +23,7 @@
 ### iOS
 - [Архитектура iOS](https://github.com/VladislavEremeev/QA_bible/blob/master/mobilnoe-testirovanie/ios/arkhitektura-ios.md) 
 - [Архитектура приложений на iOS](https://github.com/VladislavEremeev/QA_bible/blob/master/mobilnoe-testirovanie/ios/arkhitektura-ios-application.md) 
-- [Учебное пособие по тестированию приложений iOS: руководство и автоматизация](https://www.guru99.com/ru/getting-started-with-ios-testing.html) — руководство по тестированию iOS- приложений, охватывающее как ручные, так и автоматизированные подходы, с акцентом на проверку совместимости на разных устройствах и версиях iOS. Открывать с впн.
+- [Учебное пособие по тестированию приложений iOS: руководство и автоматизация](https://www.guru99.com/ru/getting-started-with-ios-testing.html) — руководство по тестированию iOS- приложений, охватывающее как ручные, так и автоматизированные подходы, с акцентом на проверку совместимости на разных устройствах и версиях iOS. Открывать с VPN.
 
 ## Дизайн мобильных приложений
 Для поддержания консистентности всех компонентов, используемых в мобильных приложениях Контура, применяется дизайн-система.
@@ -151,7 +151,7 @@
 ### Youtube каналы
 
 
-- [Канал Артема Русова](https://www.youtube.com/@rusau) - здесь очень много полезной информации, в т.ч., [подборка для мобильных тестировщиков](https://wiki.skbkontur.ru/pages/viewpage.action?pageId=894127499) 
+- [Канал Артема Русова](https://www.youtube.com/@rusau) - здесь очень много полезной информации, в том числе, [подборка для мобильных тестировщиков](https://wiki.skbkontur.ru/pages/viewpage.action?pageId=894127499) 
 - [QA Mobile](https://youtube.com/@qamobile?si=HzraSvI-6h4qYx6M) – канал о мобильном тестировании.
 - [QA TestLab](https://www.youtube.com/@QATestLab) – канал с полезными видео о тестировании веб- и мобильных приложений.
 - [Automation Step by Step](https://youtube.com/@raghavpal?si=vSOOIHyZfWLzM9Ss) – уроки по инструментам автоматизации тестирования.
