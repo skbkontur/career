@@ -14,6 +14,7 @@
 архитектурам
 Ахметчанов
 багов
+Баранцев
 Батырев
 БД
 Беркун
@@ -22,18 +23,24 @@
 Бреслав
 бумерам
 Вигерс
+Видеоурок
 вовлеченности
 Высокоуровневые
+Гайдлайны
+гайдлайны
 Гайды
 Голдратт
 Даниэль
 дебаг
+девайсов
+девайсы
 Дейв
 ДеМарко
 десериализация
 Джедайские
 дженерики
 Джефф
+Джонсон
 Джошуа
 Дэвид
 Дэниел
@@ -45,9 +52,11 @@
 Ицхак
 Канбан
 Канеман
+Карен
 Кейнер
 Коберн
 компетенций
+консистентности
 Контур
 Купер
 Ларсен
@@ -59,11 +68,16 @@
 Логирование
 Ложечкин
 лямбды
+Майнд
 Миддл
 многопоточное
 Многопоточность
+мобилок
 Мэнсон
+мэпок
+налажать
 Нассим
+Нефункциональные
 обфускация
 ООП
 опциональная
@@ -75,12 +89,17 @@
 паттерны
 Паттерны
 Паттон
+Пермишены
 Пименов
 подкаст
+подкастами
 Подкасты
+подтема
 Поппендик
 Потапова
 Поттер
+прокси
+проксимэн
 протокольно
 Пуш
 Рекс
@@ -90,20 +109,33 @@
 рефакторинг
 рефакторинга
 роадмэпы
+Русова
+Савин
 Сазерленд
 Селиховкин
 семантичных
 сервис
+сервисов
 сервисы
 Сервисы
 сериализация
 синкаксиса
 скиллы
 Скрам
+Скриншот
+скриншот
+сниффер
+снифферами
+снифферов
+Снифферы
 сущностей
 Талеб
 Талеб
 Телеграм
+тестировщика
+тестировщикам
+тестировщики
+тестировщиков
 Технополисе
 тимлида
 Тодд
@@ -122,6 +154,7 @@
 фреймворках
 фреймворки
 фреймворков
+Хабре
 Хадсона
 хостинги
 Шароватов
@@ -151,9 +184,12 @@ App Bundle
 App Clip
 App Store Connect
 AppDelegate
+AppDrive
 AppExtension
+AppGallery
 AppKit
 Apple Pay
+AppMetrica
 ARKit
 ArrayDeque
 ArrayList
@@ -241,6 +277,7 @@ forEach
 Formatters
 Fragment
 GameKit
+Genymotion
 getOrElse
 Git
 GitHub
@@ -256,6 +293,7 @@ HashMap
 HashSet
 HealthKit
 HTML
+Huawei
 iCloud
 Intent
 Intruments
@@ -277,6 +315,7 @@ Kaspresso
 Keychain
 Keystore
 KMP
+Knott
 Koin
 kontur
 Kontur
@@ -296,6 +335,7 @@ linkspector
 Linux
 LiveData
 LLDB
+Logcat
 Lottie
 macOS
 MainActor
@@ -311,6 +351,7 @@ MD013
 MD024
 MD033
 Metal
+MobileApps
 Mockito
 Mockk
 MongoDB
@@ -373,6 +414,7 @@ Room
 ru
 Ruby
 Ruby on Rails
+RuStore
 RxCocoa
 RxJava
 RxSwift
@@ -389,6 +431,7 @@ SiriKit
 skbkontur
 SkillBranch
 Smartreading
+Smyth
 sparrowcode
 Spring
 SQL
@@ -415,6 +458,7 @@ TeamLead
 TechLead
 TechSparks
 TestFlight
+TestLab
 tg
 ThreeTenABP
 UI
@@ -445,6 +489,7 @@ ViewBuilder
 ViewControllers
 ViewModel
 ViewModifier
+VPN
 Vue.js
 WatchKit
 WatchOS
@@ -455,8 +500,10 @@ whatsnewinswift
 WidgetKit
 wikipedia
 WWDC
+XCode
 Xcode
 XCTest
+XMind
 xml
 Xml
 XML
